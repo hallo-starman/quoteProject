@@ -1,5 +1,5 @@
 # quoteProject
-Quote of the day program with an alien terminal look.
+Quote of the day program with an Alien-inspired terminal.
 The program reads through a text file, randomly selects a quote, and types it out into the window.
 ### Future Plans
 - [ ] Add a glowy effect to the box and text
